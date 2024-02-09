@@ -1,10 +1,10 @@
 # Django Series
 
-Welcome to the Django Series by Bugema University Nethub's AgricHUb platform.
+Welcome to the Django Series by Bugema University GDSC's AgricHUb platform.
 
 ## Overview
 
-The Django Series is an open-source initiative by Nethub aimed at helping our members learn and master both GitHub collaboration and web development using Django. This series is designed to provide a hands-on experience in contributing to open source projects while building practical skills in Django development.
+The Django Series is an open-source initiative by GDSC aimed at helping our members learn and master both GitHub collaboration and web development using Django. This series is designed to provide a hands-on experience in contributing to open source projects while building practical skills in Django development.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ python manage.py runserver
 ### Contributing
 Here's how you can contribute to the project.
 
-We welcome contributions from all members of Nethub. To contribute to the Django Series, follow these steps:
+We welcome contributions from all members of GDSC. To contribute to the Django Series, follow these steps:
 
 - Find an issue or feature you'd like to work on in the Issues section.
 - Fork the repository to your GitHub account.
